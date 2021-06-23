@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="welcome">Welcome</string>
+    <string name="instructions">Instructions</string>
+    <string name="create_account">Create account</string>
+    <string name="register">Register new account</string>
+    <string name="welcome_title">Welcome to the Shoe Store app</string>
+    <string name="welcome_desc">This is a sample shoe store app where you can keep a list of your favorite shoes.</string>
+    <string name="welcome_button">Continue</string>
+    <string name="instructions_title">Instructions</string>
+    <string name="instructions_desc">Press the "Next" button to see the shoe list. Press the "Add" button to add a new show to the list.</string>
+    <string name="next_button">Continue</string>
+    <string name="log_out">Log out</string>
+    <string name="shoe_list">Shoe list</string>
+    <string name="shoe_new">New shoe</string>
+    <string name="add_a_new_shoe">Add a new shoe</string>
+    <string name="shoe_name">Shoe name</string>
+    <string name="company">Company</string>
+    <string name="shoe_size">Shoe size</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
